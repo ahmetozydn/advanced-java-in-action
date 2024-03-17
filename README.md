@@ -1,7 +1,7 @@
 - Concurrency and Multithreading
-- Generics
-- Annotations
-- Reflection
+- [x] Generics
+- [x] Annotations
+- [x] Reflection
 - Lambda Expressions and Functional Programming
 - Design Patterns
 - JDBC 
@@ -11,3 +11,6 @@
 - Testing
 - Queue
 - Security
+- Interceptor
+- Optional, Assertion
+- Jackson
