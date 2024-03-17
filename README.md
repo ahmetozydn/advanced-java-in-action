@@ -1,0 +1,13 @@
+- Concurrency and Multithreading
+- Generics
+- Annotations
+- Reflection
+- Lambda Expressions and Functional Programming
+- Design Patterns
+- JDBC 
+- Networking and Socket Programming
+- Dependency Injection and Inversion of Control (IoC)
+- Asynchronous Programming and CompletableFuture
+- Testing
+- Queue
+- Security
